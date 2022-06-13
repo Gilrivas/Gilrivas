@@ -1,7 +1,7 @@
-### Hi there 👋
-## 👉 I’m currently learning Html, Css, Javascript.
-## 💬 Ask me about anything you want
-## 📫 How to reach me: j.gil@codeur.online
+## Hello👋
+### 👉 I’m currently learning Html, Css, Javascript.
+### 💬 Ask me about anything you want
+### 📫 How to reach me: j.gil@codeur.online
 
 
 <!--
