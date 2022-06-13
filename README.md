@@ -1,4 +1,8 @@
 ### Hi there 👋
+👉 I’m currently learning Html, Css, Javascript.
+💬 Ask me about anything you want
+📫 How to reach me: j.gil@codeur.online
+
 
 <!--
 **Gilrivas/Gilrivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
