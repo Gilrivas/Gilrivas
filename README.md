@@ -1,5 +1,5 @@
 ## Hola!👋
-### 👉 I’m currently learning  PHP, JavaScript,Html, Css.
+### 👉 PHP, JavaScript,Html, Css.
 ### 💬 Ask me about anything you want
 ### 📫 How to reach me: j.gil@codeur.online
 
